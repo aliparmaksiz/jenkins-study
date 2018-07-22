@@ -23,7 +23,7 @@
 
 	<scm>
 		<connection>scm:git:https://github.com/aliparmaksiz/jenkins-study.git</connection>
-		<developerConnection>scm:https://github.com/aliparmaksiz/jenkins-study.git</developerConnection>
+		<developerConnection>scm:git:https://github.com/aliparmaksiz/jenkins-study.git</developerConnection>
 		<url>https://github.com</url>
 	</scm>
 	
