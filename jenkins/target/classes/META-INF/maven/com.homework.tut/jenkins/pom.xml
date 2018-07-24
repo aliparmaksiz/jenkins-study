@@ -22,9 +22,9 @@
 	</properties>
 
 	<scm>
-		<connection>scm:git:ssh://github.com/aliparmaksiz/jenkins-study.git</connection>
-		<developerConnection>scm:git:ssh://github.com/aliparmaksiz/jenkins-study.git</developerConnection>
-		<url>scm:git:ssh://github.com/aliparmaksiz/jenkins-study.git</url>
+		<connection>scm:git:https://github.com/aliparmaksiz/jenkins-study.git</connection>
+		<developerConnection>scm:git:https://github.com/aliparmaksiz/jenkins-study.git</developerConnection>
+		<url>https://github.com/aliparmaksiz/jenkins-study.git</url>
 	</scm>
 	
 	
@@ -68,6 +68,14 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
+			
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-release-plugin</artifactId>
+        <version>2.5.3</version>
+      </plugin>
+   
+ 
 		</plugins>
 	</build>
 
