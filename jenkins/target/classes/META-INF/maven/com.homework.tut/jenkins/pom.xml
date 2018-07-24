@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.homework.tut</groupId>
 	<artifactId>jenkins</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.1-SNAPSHOT</version>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -22,9 +22,9 @@
 	
 
 	<scm>
-		<connection>scm:git:ssh://git@github.com/aliparmaksiz/jenkins-study.git</connection>
-		<developerConnection>scm:git:ssh://git@github.com/aliparmaksiz/jenkins-study.git</developerConnection>
-		<url>https://github.com/aliparmaksiz/jenkins-study.git</url>
+		<connection>scm:git:ssh://git@github.com:aliparmaksiz/jenkins-study.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com:aliparmaksiz/jenkins-study.git</developerConnection>
+		<url>scm:git:ssh://git@github.com:aliparmaksiz/jenkins-study.git</url>
   </scm>
 	
 	
