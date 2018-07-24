@@ -22,9 +22,9 @@
 	
 
 	<scm>
-		<connection>scm:git:ssh://github.com:aliparmaksiz/jenkins-study.git</connection>
-		<developerConnection>scm:git:ssh://github.com:aliparmaksiz/jenkins-study.git</developerConnection>
-		<url>scm:git:ssh://github.com:aliparmaksiz/jenkins-study.git</url>
+		<connection>scm:git:ssh://github.com/aliparmaksiz/jenkins-study.git</connection>
+		<developerConnection>scm:git:ssh://github.com/aliparmaksiz/jenkins-study.git</developerConnection>
+		<url>scm:git:ssh://github.com/aliparmaksiz/jenkins-study.git</url>
   </scm>
 	
 	
