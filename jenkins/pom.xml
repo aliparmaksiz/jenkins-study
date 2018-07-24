@@ -20,6 +20,8 @@
 		<spring-cloud.version>Finchley.RELEASE</spring-cloud.version>
 		<spring-statemachine.version>2.0.1.RELEASE</spring-statemachine.version>
 	</properties>
+	
+	
 
 	<scm>
 		<connection>scm:git:ssh://git@github.com/aliparmaksiz/jenkins-study.git</connection>
