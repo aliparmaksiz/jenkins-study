@@ -24,9 +24,9 @@
 	
 
 	<scm>
-		<connection>scm:git:ssh://git@github.com/aliparmaksiz/jenkins-study.git</connection>
-		<developerConnection>scm:git:ssh://git@github.com/aliparmaksiz/jenkins-study.git</developerConnection>
-		<url>scm:git:ssh://git@github.com/aliparmaksiz/jenkins-study.git</url>
+		<connection>scm:git:git@github.com/aliparmaksiz/jenkins-study.git</connection>
+		<developerConnection>scm:git:git@github.com/aliparmaksiz/jenkins-study.git</developerConnection>
+		<url>scm:git:git@github.com/aliparmaksiz/jenkins-study.git</url>
     </scm>
 	
 	
