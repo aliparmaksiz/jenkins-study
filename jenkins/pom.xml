@@ -20,6 +20,8 @@
 	</properties>
 	
 	
+	
+	
 
 	<scm>
 		<connection>scm:git:git@github.com/aliparmaksiz/jenkins-study.git</connection>
