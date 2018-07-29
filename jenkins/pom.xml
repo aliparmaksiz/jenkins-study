@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.homework.tut</groupId>
 	<artifactId>jenkins</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -29,6 +29,7 @@
 		<connection>scm:git:https://aliparmaksiz:parola12@github.com/aliparmaksiz/jenkins-study.git</connection>
 		<developerConnection>scm:git:https://aliparmaksiz:parola12@github.com/aliparmaksiz/jenkins-study.git</developerConnection>
 		<url>https://github.com/aliparmaksiz/jenkins-study.git</url>
+		<tag>HEAD</tag>
 	</scm>
 
 	<distributionManagement>
@@ -41,7 +42,6 @@
 			<url>http://localhost:8081/repository/maven-releases/</url>
 		</repository>
 	</distributionManagement>
-
 
 
 
