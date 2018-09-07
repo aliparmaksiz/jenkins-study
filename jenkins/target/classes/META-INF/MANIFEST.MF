@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Implementation-Title: jenkins
-Implementation-Version: 0.0.6-SNAPSHOT
+Implementation-Version: 0.0.8-SNAPSHOT
 Built-By: ealipaz
 Implementation-Vendor-Id: com.homework.tut
 Build-Jdk: 1.8.0_171
